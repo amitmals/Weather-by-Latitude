@@ -20,7 +20,7 @@
 ### No real corelation between Humidity vs Latitude
 
 -Humidity depends on additional factors rather than just latitude of the location
-
+![map-2](https://user-images.githubusercontent.com/46534353/58494555-3340b900-812a-11e9-94e3-c09ddc10c3bf.png)
 
 Cloudiness (%) vs. Latitude
 

@@ -2,7 +2,8 @@
 
 ## We take 500+ random cities and see the impact of latitude on various factors using OpenWeatherMap API
 
-Sample run : 500+ Cities selected <img width="740" alt="Screen Shot 2019-05-25 at 9 55 11 PM" src="https://user-images.githubusercontent.com/46534353/58377525-ca91ea80-7f37-11e9-8bde-fb6ed63c44bc.png">
+#### Sample run : 500+ Cities selected
+![map](https://user-images.githubusercontent.com/46534353/58493208-47cf8200-8127-11e9-9016-15311e6204f8.png)
 
 ## Temperature (F) vs. Latitude
 ### Strong correlation as seen from the below plots. Closer to the latitude sees higher temperatures.
@@ -11,17 +12,13 @@ Sample run : 500+ Cities selected <img width="740" alt="Screen Shot 2019-05-25 a
 
 -Binned average temperature plot by latitude shows the same trend more clearly
 
-![Lats_vs_Temps(Sat May 25 21:48:07 2019)](https://user-images.githubusercontent.com/46534353/58377532-f44b1180-7f37-11e9-9fdd-f97788136180.png)
 
-<img width="284" alt="Screen Shot 2019-05-25 at 9 57 08 PM" src="https://user-images.githubusercontent.com/46534353/58377537-10e74980-7f38-11e9-9c7d-14c0648372f0.png">
 
 
 ## Humidity (%) vs. Latitude
 ### No real corelation between Humidity vs Latitude
 
 -Humidity depends on additional factors rather than just latitude of the location
-
-![Lats_vs_Humidity(Sat May 25 22:01:13 2019)](https://user-images.githubusercontent.com/46534353/58490306-c4f7f880-8121-11e9-9455-5aca357951d0.png)
 
 
 Cloudiness (%) vs. Latitude

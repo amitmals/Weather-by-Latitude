@@ -27,7 +27,6 @@
 -Plotting a heat map shows that Humidity looks to be higher in coastal areas and might need further evaluation
 ![map-4](https://user-images.githubusercontent.com/46534353/58494990-2ec8d000-812b-11e9-8980-0dac068d5f83.png)
 
-
 ## Cloudiness (%) vs. Latitude
 ### No real corelation between Cloudiness vs Latitude
 
@@ -37,9 +36,13 @@
 -Plotting a heat map does not show any real relationship
 ![map-5](https://user-images.githubusercontent.com/46534353/58495341-1a390780-812c-11e9-8412-a2f4eaadc88d.png)
 
-
-
 ## Wind Speed (mph) vs. Latitude
 ### No real corelation between Wind Speed vs Latitude
+
+-Wind Speed depends on additional factors rather than just latitude of the location
+![Lats_vs_WindSpeed(Tue May 28 08:53:31 2019)](https://user-images.githubusercontent.com/46534353/58495501-89aef700-812c-11e9-9147-98276dbd52fb.png)
+
+-Plotting a heat map does not show any real relationship
+![map-6](https://user-images.githubusercontent.com/46534353/58495597-c4b12a80-812c-11e9-9be6-3dd4dd0dce8d.png)
 
 

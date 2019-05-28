@@ -15,17 +15,21 @@
 ![Lats_vs_Temps-Binned(Tue May 28 08:53:31 2019)](https://user-images.githubusercontent.com/46534353/58493916-d7296500-8128-11e9-97af-e4c64dbbbd4d.png)
 
 -A quick plot shows how the spread is more visually
+
 <img width="741" alt="Screen Shot 2019-05-28 at 9 24 23 AM" src="https://user-images.githubusercontent.com/46534353/58494693-8adf2480-812a-11e9-836b-b5330a9faa86.png">
 
 ## Humidity (%) vs. Latitude
 ### No real corelation between Humidity vs Latitude
 
 -Humidity depends on additional factors rather than just latitude of the location
-![map-2](https://user-images.githubusercontent.com/46534353/58494555-3340b900-812a-11e9-94e3-c09ddc10c3bf.png)
+![Lats_vs_Humidity(Tue May 28 08:53:31 2019)](https://user-images.githubusercontent.com/46534353/58494800-c7128500-812a-11e9-92b2-644af4b0cebd.png)
 
-Cloudiness (%) vs. Latitude
+## Cloudiness (%) vs. Latitude
+### No real corelation between Cloudiness vs Latitude
 
-Wind Speed (mph) vs. Latitude
 
+
+## Wind Speed (mph) vs. Latitude
+### No real corelation between Wind Speed vs Latitude
 
 

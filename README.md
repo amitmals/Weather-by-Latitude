@@ -12,7 +12,7 @@
 ![Lats_vs_Temps(Tue May 28 08:53:31 2019)](https://user-images.githubusercontent.com/46534353/58493271-69306e00-8127-11e9-80ab-2064da7f47d6.png)
 
 -Binned average temperature plot by latitude shows the same trend more clearly
-
+![Lats_vs_Temps-Binned(Tue May 28 08:53:31 2019)](https://user-images.githubusercontent.com/46534353/58493916-d7296500-8128-11e9-97af-e4c64dbbbd4d.png)
 
 
 

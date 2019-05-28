@@ -24,6 +24,10 @@
 -Humidity depends on additional factors rather than just latitude of the location
 ![Lats_vs_Humidity(Tue May 28 08:53:31 2019)](https://user-images.githubusercontent.com/46534353/58494800-c7128500-812a-11e9-92b2-644af4b0cebd.png)
 
+-Plotting a heat map shows that Humidity looks to be higher in coastal areas and might need further evaluation
+![map-4](https://user-images.githubusercontent.com/46534353/58494990-2ec8d000-812b-11e9-8980-0dac068d5f83.png)
+
+
 ## Cloudiness (%) vs. Latitude
 ### No real corelation between Cloudiness vs Latitude
 

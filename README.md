@@ -9,6 +9,7 @@
 ### Strong correlation as seen from the below plots. Closer to the latitude sees higher temperatures.
 
 -Scatter plot below shows the rise in temperature as the location in question gets closer to the equator
+![Lats_vs_Temps(Tue May 28 08:53:31 2019)](https://user-images.githubusercontent.com/46534353/58493271-69306e00-8127-11e9-80ab-2064da7f47d6.png)
 
 -Binned average temperature plot by latitude shows the same trend more clearly
 

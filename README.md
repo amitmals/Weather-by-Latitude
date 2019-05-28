@@ -1,6 +1,6 @@
 # weatherVSlatitude
 
-## We take 100's of random cities and see the impact of latitude on various factors using OpenWeatherMap API
+## We take 500+ random cities and see the impact of latitude on various factors using OpenWeatherMap API
 
 Sample run : 500+ Cities selected <img width="740" alt="Screen Shot 2019-05-25 at 9 55 11 PM" src="https://user-images.githubusercontent.com/46534353/58377525-ca91ea80-7f37-11e9-8bde-fb6ed63c44bc.png">
 

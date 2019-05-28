@@ -15,6 +15,7 @@
 ![Lats_vs_Temps-Binned(Tue May 28 08:53:31 2019)](https://user-images.githubusercontent.com/46534353/58493916-d7296500-8128-11e9-97af-e4c64dbbbd4d.png)
 
 -A quick plot shows how the spread is more visually
+![map-7](https://user-images.githubusercontent.com/46534353/58495773-2a9db200-812d-11e9-9df0-0df0ec335ba1.png)
 
 <img width="741" alt="Screen Shot 2019-05-28 at 9 24 23 AM" src="https://user-images.githubusercontent.com/46534353/58494693-8adf2480-812a-11e9-836b-b5330a9faa86.png">
 
@@ -23,9 +24,6 @@
 
 -Humidity depends on additional factors rather than just latitude of the location
 ![Lats_vs_Humidity(Tue May 28 08:53:31 2019)](https://user-images.githubusercontent.com/46534353/58494800-c7128500-812a-11e9-92b2-644af4b0cebd.png)
-
--Plotting a heat map shows that Humidity looks to be higher in coastal areas and might need further evaluation
-![map-7](https://user-images.githubusercontent.com/46534353/58495773-2a9db200-812d-11e9-9df0-0df0ec335ba1.png)
 
 -Plotting the binned data shows a similar trend
 ![map-4](https://user-images.githubusercontent.com/46534353/58494990-2ec8d000-812b-11e9-8980-0dac068d5f83.png)

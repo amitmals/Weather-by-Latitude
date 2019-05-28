@@ -31,6 +31,12 @@
 ## Cloudiness (%) vs. Latitude
 ### No real corelation between Cloudiness vs Latitude
 
+-Cloudiness depends on additional factors rather than just latitude of the location
+![Lats_vs_Cloudiness(Tue May 28 08:53:31 2019)](https://user-images.githubusercontent.com/46534353/58495258-dcd47a00-812b-11e9-86b1-9fe2b16cc236.png)
+
+-Plotting a heat map does not show any real relationship
+![map-5](https://user-images.githubusercontent.com/46534353/58495341-1a390780-812c-11e9-8412-a2f4eaadc88d.png)
+
 
 
 ## Wind Speed (mph) vs. Latitude

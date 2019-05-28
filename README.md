@@ -14,7 +14,8 @@
 -Binned average temperature plot by latitude shows the same trend more clearly
 ![Lats_vs_Temps-Binned(Tue May 28 08:53:31 2019)](https://user-images.githubusercontent.com/46534353/58493916-d7296500-8128-11e9-97af-e4c64dbbbd4d.png)
 
-
+-A quick plot shows how the spread is more visually
+<img width="741" alt="Screen Shot 2019-05-28 at 9 24 23 AM" src="https://user-images.githubusercontent.com/46534353/58494693-8adf2480-812a-11e9-836b-b5330a9faa86.png">
 
 ## Humidity (%) vs. Latitude
 ### No real corelation between Humidity vs Latitude

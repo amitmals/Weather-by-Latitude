@@ -25,6 +25,9 @@
 ![Lats_vs_Humidity(Tue May 28 08:53:31 2019)](https://user-images.githubusercontent.com/46534353/58494800-c7128500-812a-11e9-92b2-644af4b0cebd.png)
 
 -Plotting a heat map shows that Humidity looks to be higher in coastal areas and might need further evaluation
+![map-7](https://user-images.githubusercontent.com/46534353/58495773-2a9db200-812d-11e9-9df0-0df0ec335ba1.png)
+
+-Plotting the binned data shows a similar trend
 ![map-4](https://user-images.githubusercontent.com/46534353/58494990-2ec8d000-812b-11e9-8980-0dac068d5f83.png)
 
 ## Cloudiness (%) vs. Latitude
